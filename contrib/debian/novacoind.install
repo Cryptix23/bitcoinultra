@@ -1,0 +1,2 @@
+debian/bin/BitcoinUltrad usr/bin
+src/BitcoinUltrad usr/lib/BitcoinUltra

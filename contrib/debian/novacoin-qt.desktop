@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=BitcoinUltra
+Comment=BitcoinUltra P2P Cryptocurrency
+Comment[fr]=BitcoinUltra, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=BitcoinUltra, eşten eşe kriptografik sanal para birimi
+Exec=/usr/bin/BitcoinUltra-qt
+Terminal=false
+Type=Application
+Icon=/usr/share/pixmaps/bitcoin80.xpm
+MimeType=x-scheme-handler/BitcoinUltra;
+Categories=Office;
